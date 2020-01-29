@@ -1,0 +1,24 @@
+All the SQL queries are in the correspondent file, being q1.sql the sql file of the first question, q2.sql of the
+second question, etc.
+
+1. Anand Beck
+
+2. 37
+
+3.
+1984|Book
+Catcher in the Rye|Book
+Domain Driven Design|Book
+Fellowship of the Ring|Book
+To Kill a Mockingbird|Book
+Tom Sawyer|Book
+Crouching Tiger, Hidden Dragon|Movie
+Lawrence of Arabia|Movie
+Office Space|Movie
+Thin Red Line|Movie
+
+4. Check q4.sql
+
+5.
+Anand Beck
+Frank Smith
